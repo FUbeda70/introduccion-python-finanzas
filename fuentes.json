@@ -1,0 +1,49 @@
+{
+  "fuente": "https://drive.google.com/file/d/1PejKzgt0beU4c9RR8OP9CJpECsGKZQN0/view",
+  "cuadernos": [
+    {
+      "archivo": "cuadernos/01-introduccion.ipynb",
+      "drive_id": "1gb9svJU27VW4tMtWGFG2lz_5YTWsQ5ji"
+    },
+    {
+      "archivo": "cuadernos/02-google-colab.ipynb",
+      "drive_id": "1wQe0AtEiGhbQ0GInqIJz4ps1YiNMGkt5"
+    },
+    {
+      "archivo": "cuadernos/03-fundamentos-python.ipynb",
+      "drive_id": "1UsUHMQqo6LkagmB1ZjEulxrw1Q5e0_Fy"
+    },
+    {
+      "archivo": "cuadernos/04-numpy.ipynb",
+      "drive_id": "1fUHOFuU7BEAE-teu7D5OlGflMu2Fqg9v"
+    },
+    {
+      "archivo": "cuadernos/05-pandas.ipynb",
+      "drive_id": "1OMZKYeqCkbR8gCwWRie8UeInRKDm0eQA"
+    },
+    {
+      "archivo": "cuadernos/06-activos-trading.ipynb",
+      "drive_id": "1Wk4UGDskCtmzR4F6tbm7bE57ckxZLGPL"
+    },
+    {
+      "archivo": "cuadernos/07-analisis-fundamental.ipynb",
+      "drive_id": "1Qmj-mL2eVTO8x_VVWZmug4qccfwNDWbs"
+    },
+    {
+      "archivo": "cuadernos/ejercicio-numpy.ipynb",
+      "drive_id": "1p05efpNks0v5vO4CSS25x8_qMKBo6MZ_"
+    },
+    {
+      "archivo": "cuadernos/ejercicio-pandas.ipynb",
+      "drive_id": "1XoQMq1-8VhVz5LkpGMoTO-EqhcuKBVS_"
+    },
+    {
+      "archivo": "cuadernos/anexo-python-vscode.ipynb",
+      "drive_id": "1TiBzGLkKFwfGOzZQP0I2x5JjpXZbR7N2"
+    },
+    {
+      "archivo": "cuadernos/anexo-git.ipynb",
+      "drive_id": "1bgZg1rfrBEOsvANx2hszVl5qw78lXMqe"
+    }
+  ]
+}
